@@ -1,0 +1,166 @@
+.top-container {
+  background-color: #e5989b;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact {
+  width: 30%;
+  margin: 15px auto 40px auto;
+}
+
+.bottom-container {
+  background-color: #ff686b;
+  padding: 50px 0 20px;
+}
+
+body {
+  background-color: #f7ede2;
+  color: #212529;
+  margin: 0;
+  text-align: center;
+  font-family: 'Quando', serif;
+  font-size: 15px;
+  line-height: 2;
+}
+
+p {
+  line-height: 2;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Courgette', cursive;
+  font-size: 5.625rem;
+  color: #e01e37;
+}
+
+h2 {
+  font-family: 'Caveat', cursive;
+  font-size: 2.5rem;
+  color: #e01e37;
+  font-weight: normal;
+}
+
+.sub-title {
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  color: #ff686b;
+}
+
+hr {
+  background-color: #f7ede2;
+  border-style: dotted none none;
+  border-color: #ada7c9;
+  border-width: 6px;
+  width: 15%;
+  margin: 75px auto 75px auto;
+  padding-top: inherit;
+}
+
+.sec-cloud {
+  display: block;
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.fir-cloud {
+  display: inline-block;
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.me {
+  width: 200px;
+}
+
+.japan {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.bake {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.skill-row {
+  margin: 75px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.btn {
+  background: #ff87ab;
+  background-image: -webkit-gradient(top, #FF5D8F, #E51D5B);
+  background-image: -webkit-linear-gradient(top, #FF87AB, #E956A2);
+  background-image: -moz-linear-gradient(top, #FF87AB, #E956A2);
+  background-image: -ms-linear-gradient(top, #FF87AB, #E956A2);
+  background-image: -o-linear-gradient(top, #FF87AB, #E956A2);
+  background-image: linear-gradient(to bottom, #FF87AB, #E956A2);
+  border-radius: 15px;
+  color: snow;
+  font-family: 'Caveat', cursive;
+  font-size: 20px;
+  font-weight: normal;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.btn:hover {
+  border: solid #FF5D8F 1px;
+  background: #FF5D8F;
+  background-image: -webkit-gradient(top, #FF5D8F, #E51D5B);
+  background-image: -webkit-linear-gradient(top, #FF5D8F, #E51D5B);
+  background-image: -moz-linear-gradient(top, #FF5D8F, #E51D5B);
+  background-image: -ms-linear-gradient(top, #FF5D8F, #E51D5B);
+  background-image: -o-linear-gradient(top, #FF5D8F, #E51D5B);
+  background-image: linear-gradient(to bottom, #FF5D8F, #E51D5B);
+  border-radius: 15px;
+  text-decoration: none;
+  width: auto;
+  margin-bottom: 20px;
+}
+
+a {
+  color: #c42348;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5rem;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f5cac3;
+}
+
+a:-webkit-any-link {
+  cursor: pointer;
+}
+
+.copyright {
+  color: snow;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
